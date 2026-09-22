@@ -7,7 +7,7 @@ No account. No ads. No tracking. Free.
 
 [**tilawi.ai**](https://tilawi.ai) · [App Store](https://apps.apple.com/app/id6757377322) · [Google Play](https://play.google.com/store/apps/details?id=com.durako.tilawi)
 
-<img src="assets/demo.gif" width="300" alt="Tilawi demo" />
+<img src="assets/demo.gif" width="300" alt="Tilawi voice search demo: recite a verse and it is found almost instantly" />
 
 </div>
 
@@ -32,9 +32,9 @@ No account. No ads. No tracking. Free.
 
 ## Demo
 
-Practicing a page and getting instant, private, word-by-word feedback — all on-device:
+**Voice search:** recite any verse and Tilawi finds it almost instantly. The AI runs entirely on your phone, with no upload and no waiting on a server.
 
-<img src="assets/demo.gif" width="320" alt="Tilawi practice demo" />
+<img src="assets/demo.gif" width="320" alt="Tilawi voice search demo" />
 
 ## Screenshots
 
