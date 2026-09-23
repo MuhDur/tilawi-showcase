@@ -58,6 +58,15 @@ Tilawi listens to your recitation and compares it, word by word, against the fix
 
 The app never generates or alters Qur'an text; it only grades **your** recitation against it, on your device.
 
+## Open source
+
+The recognition stack behind Tilawi is open source under **[github.com/Tilawi](https://github.com/Tilawi)**:
+
+- [quran-asr](https://github.com/Tilawi/quran-asr) ([npm](https://www.npmjs.com/package/@tilawi/quran-asr)): verse identification and word-by-word memorization feedback
+- [react-native-quran-asr](https://github.com/Tilawi/react-native-quran-asr) ([npm](https://www.npmjs.com/package/@tilawi/react-native-quran-asr)): the React Native / Expo layer
+- [expo-pcm-recorder](https://github.com/Tilawi/expo-pcm-recorder) ([npm](https://www.npmjs.com/package/@tilawi/expo-pcm-recorder)): microphone capture for on-device recognition
+- The on-device model on Hugging Face: [muhdur/tilawi-fastconformer-quran](https://huggingface.co/muhdur/tilawi-fastconformer-quran)
+
 ## Privacy & Support
 
 - 🔒 **Privacy Policy:** [tilawi.ai/privacy](https://tilawi.ai/privacy)
@@ -67,5 +76,5 @@ The app never generates or alters Qur'an text; it only grades **your** recitatio
 ---
 
 <div align="center">
-Made with care for the Ummah. 🤲
+Made with care for the Ummah by [Muhammed Durakovic](https://durakovic.ai) and [Isa Durakovic](https://isadurakovic.com/). 🤲
 </div>
