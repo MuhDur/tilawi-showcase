@@ -71,7 +71,7 @@ The recognition stack behind Tilawi is open source under **[github.com/Tilawi](h
 
 - 🔒 **Privacy Policy:** [tilawi.ai/privacy](https://tilawi.ai/privacy)
 - 📄 **Terms:** [tilawi.ai/terms](https://tilawi.ai/terms)
-- ✉️ **Support:** support@tilawi.ai
+- ✉️ **Support:** hello@durakovic.ai
 
 ---
 
